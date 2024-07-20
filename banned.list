@@ -1,0 +1,3 @@
+#comments are prefixed with #
+#every line thats not commented is treated as a steamid64
+#eg 76561132612634379
